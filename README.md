@@ -16,10 +16,6 @@ Below is a diagram of how we will set up this project.
   *   Permissions
   *   Users
 
-
-# Prerequisites and Installation
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.
-
 # Environments and Technologies used 
 - Microsoft Azure (Virtual Machine and Compute)
 - Remote Desktop
