@@ -4,7 +4,7 @@
 # osTicket
 
 Below is a diagram of how we will set up this project.
-![Screenshot (579)](https://github.com/Michael-DTran/osTicket/assets/112426094/923a5e30-5ce1-4cb8-bc2d-610036fd02fd)
+![Screenshot (650)](https://github.com/Michael-DTran/osTicket/assets/112426094/c9e41da5-cc6b-4a65-a39d-375fad59e9d3)
 
 # Purpose of this Lab
 - To gain more experience with Azure
