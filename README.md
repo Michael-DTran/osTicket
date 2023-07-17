@@ -1,4 +1,4 @@
-# Links to Instructions and Installation Files
+# Link to Instructions and Installation Files
 [Instructions and Installation](https://docs.google.com/document/d/1fTecyKVe42J3CK-QlUUq6w4OlsTVU5RnaJBzqSeyhR0/edit)
 
 # osTicket
