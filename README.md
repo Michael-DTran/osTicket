@@ -7,14 +7,9 @@ Below is a diagram of how we will set up this project.
 ![Screenshot (650)](https://github.com/Michael-DTran/osTicket/assets/112426094/c9e41da5-cc6b-4a65-a39d-375fad59e9d3)
 
 # Purpose of this Lab
-- To gain more experience with Azure
-- Experience as both the admin and the user of the ticket system
-- Gain a better understanding of all the parts of the ticketing system
-  * Ticket properties
-  *  SLA (Service-Level Agreement)
-  *   Departments
-  *   Permissions
-  *   Users
+• Proficiency in utilizing Azure to create virtual machines and accessing services via remote desktop.
+• Demonstrate expertise as an administrator and user of the ticketing system, ensuring smooth operations and efficient support.
+• Develop a comprehensive understanding of key components within the ticketing system, including ticket properties, SLA management, departmental workflows, user permissions, and user management.
 
 # Environments and Technologies used 
 - Microsoft Azure (Virtual Machine and Compute)
